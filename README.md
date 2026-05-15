@@ -22,7 +22,8 @@
 
 ## Schéma électronique
 
-Le fichier [`elec42_pool.pdf`](./elec42_pool.pdf) contient le schéma de câblage de référence utilisé tout au long de la piscine : brochage de l'ATmega328P, connexions des périphériques (LEDs, boutons, capteurs), et alimentation.
+Le fichier [`schematics.pdf`](./schematics.pdf) contient le schéma de câblage de référence utilisé tout au long de la piscine : brochage de l'ATmega328P, connexions des périphériques (LEDs, boutons, capteurs), et alimentation.
+
 
 ---
 
